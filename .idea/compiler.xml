@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client80" />
+        <module name="eureka-client9092" />
         <module name="eureka-client9091" />
         <module name="eureka-client9090" />
-        <module name="eureka-clirnt9092" />
         <module name="eureka-server8081" />
         <module name="eureka-server8080" />
       </profile>

@@ -13,7 +13,7 @@
         <module>eureka-client9090</module>
         <module>eureka-client9091</module>
         <module>eureka-client80</module>
-        <module>eureka-clirnt9092</module>
+        <module>eureka-client9092</module>
         <module>eureka-server8081</module>
     </modules>
 
